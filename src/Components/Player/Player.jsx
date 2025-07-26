@@ -1,4 +1,5 @@
 import { FaFlag } from "react-icons/fa";
+import './player.css'
 
 
 const Player = ({player}) => {
@@ -28,7 +29,7 @@ const Player = ({player}) => {
                 </div>
                 <div className="flex justify-between items-center">
                     <h4 className="font-semibold text-base text-[#131313]">Price: ${price}</h4>
-                    <button className="font-normal text-[14px] text-[#131313] py-2 px-4 border border-[rgba(19,19,19,.1)] rounded-[8px]">Choose Player</button>
+                    <button className=" selected font-normal text-[14px] text-[#131313] py-2 px-4 border border-[rgba(19,19,19,.1)] rounded-[8px]">Choose Player</button>
                 </div>
 
 
