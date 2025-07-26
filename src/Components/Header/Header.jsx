@@ -18,7 +18,7 @@ const Header = ({balance}) => {
                         <span><FaBars /></span>
                     </div>
                     <div className='ml-6'>
-                        <button className='flex justify-center items-center text-base font-semibold text-[#131313] py-3 px-6 border border-[rgba(19,19,19,.1)] rounded-xl'>{balance} Taka <span className='ml-2 text-xl text-[#131313]'><TbCoinTaka /></span></button>
+                        <button className='flex justify-center items-center text-base font-semibold text-[#131313] py-3 px-6 border border-[rgba(19,19,19,.1)] rounded-xl cursor-pointer'>{balance} Taka <span className='ml-2 text-xl text-[#131313]'><TbCoinTaka /></span></button>
                     </div>
                 </div>
                 

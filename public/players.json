@@ -1,92 +1,92 @@
 [
   {
     "id": "1",
-    "player_img": "https://i.ibb.co/j9GDZSKV/Virat-Kohli-in-PMO-New-Delhi.jpg",
-    "player_name": "virat kohli",
-    "player_country": "india",
-    "player_rule": "batsman",
-    "batting_style": "right-hand bat",
-    "bowling_style": "right-arm medium",
-    "price": "15 cr"
+    "player_img": "https://i.ibb.co/HTGgvtj8/p0l9vzfz.jpg",
+    "player_name": "Virat Kohli",
+    "player_country": "India",
+    "player_rule": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": 2500000
   },
   {
     "id": "2",
-    "player_img": "https://i.ibb.co/jvgnhBJK/MV5-BYTlh-Yjkz-NTQt-Mj-Fi-NS00-NDYy-LThl-NTgt-MWE4-ZTI0-ZTY4-Nm-M1-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
-    "player_name": "steve smith",
-    "player_country": "australia",
-    "player_rule": "batsman",
-    "batting_style": "right-hand bat",
-    "bowling_style": "right-arm legbreak",
-    "price": "14 cr"
+    "player_img": "https://i.ibb.co/SDyLWhYv/steve-smith-pictures-plqsoal1luugiyt3.jpg",
+    "player_name": "Steve Smith",
+    "player_country": "Australia",
+    "player_rule": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "price": 2250000
   },
   {
     "id": "3",
     "player_img": "https://i.ibb.co/nFtCLNh/kane08102301.jpg",
-    "player_name": "kane williamson",
-    "player_country": "new zealand",
-    "player_rule": "batsman",
-    "batting_style": "right-hand bat",
-    "bowling_style": "right-arm offbreak",
-    "price": "13 cr"
+    "player_name": "Kane Williamson",
+    "player_country": "New-zealand",
+    "player_rule": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": 2200000
   },
   {
     "id": "4",
     "player_img": "https://i.ibb.co/pvr0ts6f/mahmudullah-1200.jpg",
-    "player_name": "mahmudullah riyad",
-    "player_country": "bangladesh",
-    "player_rule": "all-rounder",
-    "batting_style": "right-hand bat",
-    "bowling_style": "right-arm offbreak",
-    "price": "5 cr"
+    "player_name": "Mahmudullah Riyad",
+    "player_country": "Bangladesh",
+    "player_rule": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": 1800000
   },
   {
     "id": "5",
     "player_img": "https://i.ibb.co/S755v0rL/skysports-lasith-malinga-cricket-5512553.jpg",
-    "player_name": "lasith malinga",
-    "player_country": "sri lanka",
-    "player_rule": "bowler",
-    "batting_style": "right-hand bat",
-    "bowling_style": "right-arm fast",
-    "price": "6 cr"
+    "player_name": "Lasith Malinga",
+    "player_country": "Sri-lanka",
+    "player_rule": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "price": 2150000
   },
   {
     "id": "6",
     "player_img": "https://i.ibb.co/2pHjGVT/indiatv-2024-08-31t222011-1725123034.jpg",
-    "player_name": "dwayne bravo",
-    "player_country": "west indies",
-    "player_rule": "all-rounder",
-    "batting_style": "right-hand bat",
-    "bowling_style": "right-arm medium",
-    "price": "7.5 cr"
+    "player_name": "Dwayne Bravo",
+    "player_country": "West-indies",
+    "player_rule": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": 2350000
   },
   {
     "id": "7",
     "player_img": "https://i.ibb.co/rGdr9D8H/1696748634550-Shakib-Al-Hasan.jpg",
-    "player_name": "shakib al hasan",
-    "player_country": "bangladesh",
-    "player_rule": "all-rounder",
-    "batting_style": "left-hand bat",
-    "bowling_style": "slow left-arm orthodox",
-    "price": "8.5 cr"
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "player_rule": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": 2000000
   },
   {
     "id": "8",
-    "player_img": "https://i.ibb.co/rKT72FPY/401143.webp",
-    "player_name": "ms dhoni",
-    "player_country": "india",
-    "player_rule": "wicket-keeper",
-    "batting_style": "right-hand bat",
+    "player_img": "https://i.ibb.co/DDCgz9zm/M-S-Dhoni.jpg",
+    "player_name": "MS Dhoni",
+    "player_country": "India",
+    "player_rule": "Wicket-keeper",
+    "batting_style": "Right-hand bat",
     "bowling_style": "n/a",
-    "price": "12 cr"
+    "price": 2450000
   },
   {
     "id": "9",
     "player_img": "https://i.ibb.co/sptwgc6d/skysports-adil-rashid-rashid-5813350.jpg",
-    "player_name": "adil rashid",
-    "player_country": "england",
-    "player_rule": "bowler",
-    "batting_style": "right-hand bat",
-    "bowling_style": "right-arm legbreak",
-    "price": "4.8 cr"
+    "player_name": "Adil Rashid",
+    "player_country": "England",
+    "player_rule": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "price": 1950000
   }
 ]

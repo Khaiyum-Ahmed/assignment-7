@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import Banner from './Components/Banner/Banner'
 import Header from './Components/Header/Header'
+import Players from './Components/Players/Players';
 
 function App() {
 
@@ -20,6 +21,9 @@ function App() {
       ></Header>
       <Banner handleFreeCredit={handleFreeCredit}
       ></Banner>
+      <main className='max-w-11/12 mx-auto'>
+        <Players></Players>
+      </main>
     </>
   )
 }
