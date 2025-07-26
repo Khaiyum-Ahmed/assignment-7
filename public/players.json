@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "player_img": "https://upload.wikimedia.org/wikipedia/commons/1/15/Virat_Kohli_portrait.jpg",
+    "player_img": "https://i.ibb.co/j9GDZSKV/Virat-Kohli-in-PMO-New-Delhi.jpg",
     "player_name": "virat kohli",
     "player_country": "india",
     "player_rule": "batsman",
@@ -11,7 +11,7 @@
   },
   {
     "id": "2",
-    "player_img": "https://upload.wikimedia.org/wikipedia/commons/0/08/Steve_Smith_2018.jpg",
+    "player_img": "https://i.ibb.co/jvgnhBJK/MV5-BYTlh-Yjkz-NTQt-Mj-Fi-NS00-NDYy-LThl-NTgt-MWE4-ZTI0-ZTY4-Nm-M1-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
     "player_name": "steve smith",
     "player_country": "australia",
     "player_rule": "batsman",
@@ -21,7 +21,7 @@
   },
   {
     "id": "3",
-    "player_img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Kane_Williamson_2019.jpg",
+    "player_img": "https://i.ibb.co/nFtCLNh/kane08102301.jpg",
     "player_name": "kane williamson",
     "player_country": "new zealand",
     "player_rule": "batsman",
@@ -31,7 +31,7 @@
   },
   {
     "id": "4",
-    "player_img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mahmudullah_2019.jpg",
+    "player_img": "https://i.ibb.co/pvr0ts6f/mahmudullah-1200.jpg",
     "player_name": "mahmudullah riyad",
     "player_country": "bangladesh",
     "player_rule": "all-rounder",
@@ -41,7 +41,7 @@
   },
   {
     "id": "5",
-    "player_img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Lasith_Malinga_2019.jpg",
+    "player_img": "https://i.ibb.co/S755v0rL/skysports-lasith-malinga-cricket-5512553.jpg",
     "player_name": "lasith malinga",
     "player_country": "sri lanka",
     "player_rule": "bowler",
@@ -51,7 +51,7 @@
   },
   {
     "id": "6",
-    "player_img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Dwayne_Bravo_2019.jpg",
+    "player_img": "https://i.ibb.co/2pHjGVT/indiatv-2024-08-31t222011-1725123034.jpg",
     "player_name": "dwayne bravo",
     "player_country": "west indies",
     "player_rule": "all-rounder",
@@ -61,7 +61,7 @@
   },
   {
     "id": "7",
-    "player_img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Shakib_Al_Hasan_2019.jpg",
+    "player_img": "https://i.ibb.co/rGdr9D8H/1696748634550-Shakib-Al-Hasan.jpg",
     "player_name": "shakib al hasan",
     "player_country": "bangladesh",
     "player_rule": "all-rounder",
@@ -71,7 +71,7 @@
   },
   {
     "id": "8",
-    "player_img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/MS_Dhoni_2019.jpg",
+    "player_img": "https://i.ibb.co/rKT72FPY/401143.webp",
     "player_name": "ms dhoni",
     "player_country": "india",
     "player_rule": "wicket-keeper",
@@ -81,7 +81,7 @@
   },
   {
     "id": "9",
-    "player_img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Adil_Rashid_2019.jpg",
+    "player_img": "https://i.ibb.co/sptwgc6d/skysports-adil-rashid-rashid-5813350.jpg",
     "player_name": "adil rashid",
     "player_country": "england",
     "player_rule": "bowler",

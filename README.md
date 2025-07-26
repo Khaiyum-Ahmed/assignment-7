@@ -2,16 +2,19 @@
 
 # 🏏 BPL Dream 11 - Fantasy Cricket Selector
 
-A web-based fantasy cricket team builder for the **Bangladesh Premier League (BPL)**, inspired by Dream 11. Choose your favorite players, manage team combinations, and strategize your picks!
+A lightweight web app to create your own **Bangladesh Premier League (BPL)** fantasy team. Inspired by Dream11, this app lets you select players under a fixed budget with real-world constraints for maximum fun and strategy.
+
 
 ---
 
 ## 🚀 Features
 
-- Select real BPL players with filters by country, role, and price
-- Team preview and points calculator
-- Role-based player limits (Batsman, Bowler, All-Rounder, Wicket-Keeper)
-- Responsive design with simple and fast UI
+✅ Select BPL players based on their **price**  
+✅ **Default team budget** applied (e.g., ₹100 Cr)  
+✅ **Max 8 players** per team  
+✅ Prevents selecting **duplicate players**  
+✅ **Remove** selected players anytime  
+✅ Live preview of selected team and remaining budget
 
 ---
 
