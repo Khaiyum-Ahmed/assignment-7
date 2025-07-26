@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "player_img": "https://upload.wikimedia.org/wikipedia/commons/1/15/Virat_Kohli_portrait.jpg",
+    "player_name": "virat kohli",
+    "player_country": "india",
+    "player_rule": "batsman",
+    "batting_style": "right-hand bat",
+    "bowling_style": "right-arm medium",
+    "price": "15 cr"
+  },
+  {
+    "id": "2",
+    "player_img": "https://upload.wikimedia.org/wikipedia/commons/0/08/Steve_Smith_2018.jpg",
+    "player_name": "steve smith",
+    "player_country": "australia",
+    "player_rule": "batsman",
+    "batting_style": "right-hand bat",
+    "bowling_style": "right-arm legbreak",
+    "price": "14 cr"
+  },
+  {
+    "id": "3",
+    "player_img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Kane_Williamson_2019.jpg",
+    "player_name": "kane williamson",
+    "player_country": "new zealand",
+    "player_rule": "batsman",
+    "batting_style": "right-hand bat",
+    "bowling_style": "right-arm offbreak",
+    "price": "13 cr"
+  },
+  {
+    "id": "4",
+    "player_img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mahmudullah_2019.jpg",
+    "player_name": "mahmudullah riyad",
+    "player_country": "bangladesh",
+    "player_rule": "all-rounder",
+    "batting_style": "right-hand bat",
+    "bowling_style": "right-arm offbreak",
+    "price": "5 cr"
+  },
+  {
+    "id": "5",
+    "player_img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Lasith_Malinga_2019.jpg",
+    "player_name": "lasith malinga",
+    "player_country": "sri lanka",
+    "player_rule": "bowler",
+    "batting_style": "right-hand bat",
+    "bowling_style": "right-arm fast",
+    "price": "6 cr"
+  },
+  {
+    "id": "6",
+    "player_img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Dwayne_Bravo_2019.jpg",
+    "player_name": "dwayne bravo",
+    "player_country": "west indies",
+    "player_rule": "all-rounder",
+    "batting_style": "right-hand bat",
+    "bowling_style": "right-arm medium",
+    "price": "7.5 cr"
+  },
+  {
+    "id": "7",
+    "player_img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Shakib_Al_Hasan_2019.jpg",
+    "player_name": "shakib al hasan",
+    "player_country": "bangladesh",
+    "player_rule": "all-rounder",
+    "batting_style": "left-hand bat",
+    "bowling_style": "slow left-arm orthodox",
+    "price": "8.5 cr"
+  },
+  {
+    "id": "8",
+    "player_img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/MS_Dhoni_2019.jpg",
+    "player_name": "ms dhoni",
+    "player_country": "india",
+    "player_rule": "wicket-keeper",
+    "batting_style": "right-hand bat",
+    "bowling_style": "n/a",
+    "price": "12 cr"
+  },
+  {
+    "id": "9",
+    "player_img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Adil_Rashid_2019.jpg",
+    "player_name": "adil rashid",
+    "player_country": "england",
+    "player_rule": "bowler",
+    "batting_style": "right-hand bat",
+    "bowling_style": "right-arm legbreak",
+    "price": "4.8 cr"
+  }
+]
