@@ -3,6 +3,9 @@ import './App.css'
 import Banner from './Components/Banner/Banner'
 import Header from './Components/Header/Header'
 import Players from './Components/Players/Players';
+import Footer from './Components/Footer/Footer';
+// import Subscribe from './Components/Subscribe/Subscribe';
+
 
 function App() {
 
@@ -24,6 +27,10 @@ function App() {
       <main className='max-w-11/12 mx-auto'>
         <Players></Players>
       </main>
+     <footer >
+       <Footer></Footer>
+       {/* <Subscribe></Subscribe> */}
+     </footer>
     </>
   )
 }

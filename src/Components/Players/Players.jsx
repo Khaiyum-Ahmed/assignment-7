@@ -9,10 +9,10 @@ const Players = () => {
         .then(data => setPlayers(data))
     },[])
     return (
-        <div >
+        <div className="pb-[240px]">
 
             <div className="flex justify-between items-center">
-                <h2>Available Players {players.length}</h2>
+                <h2>Available Players</h2>
             <div>
                 <button className="active">Available</button>
                 <button className="default">selected</button>
