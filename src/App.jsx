@@ -4,7 +4,7 @@ import Banner from './Components/Banner/Banner'
 import Header from './Components/Header/Header'
 import Players from './Components/Players/Players';
 import Footer from './Components/Footer/Footer';
-// import Subscribe from './Components/Subscribe/Subscribe';
+import { toast } from 'react-toastify';
 
 
 function App() {
@@ -15,7 +15,9 @@ function App() {
     const money = 15000000;
     const newBalnace = balance + money;
     setBalance(newBalnace);
-    alert('Successfully claimed free credits!')
+    toast.success('Credit Added to your Account!',{
+      position: "top-center"
+    })
   }
 
   return (
@@ -23,14 +25,15 @@ function App() {
       <Header balance={balance}
       ></Header>
       <Banner handleFreeCredit={handleFreeCredit}
+      
       ></Banner>
       <main className='max-w-11/12 mx-auto'>
         <Players></Players>
       </main>
-     <footer >
+     
        <Footer></Footer>
-       {/* <Subscribe></Subscribe> */}
-     </footer>
+       
+     
     </>
   )
 }

@@ -1,5 +1,6 @@
 import hero from '../../assets/assets/banner-main.png'
 import shadow from '../../assets/assets/bg-shadow.png'
+ import { ToastContainer } from 'react-toastify';
 const Banner = ({handleFreeCredit}) => {
     return (
         <div className="max-w-11/12 mx-auto mb-20">
@@ -10,6 +11,10 @@ const Banner = ({handleFreeCredit}) => {
                 <p className='mb-6 font-medium text-[rgba(255,255,255,.7)] lg:text-2xl text-base'>Beyond Boundaries Beyond Limits</p>
                 <button onClick={handleFreeCredit}
                  className='font-bold text-base text-[#131313] py-3 px-5 bg-[#E7FE29] rounded-xl cursor-pointer'>Claim Free Credit</button>
+                 <ToastContainer 
+                 position="top-center"
+                 />
+
             </div>
         </div>
     );
