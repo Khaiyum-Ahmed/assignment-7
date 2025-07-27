@@ -1,15 +1,15 @@
-import { useState } from 'react'
 import './App.css'
 import Banner from './Components/Banner/Banner'
 import Header from './Components/Header/Header'
 import Players from './Components/Players/Players';
 import Footer from './Components/Footer/Footer';
 import { toast } from 'react-toastify';
+import useBalance from './Components/Balance/Balance';
 
 
 function App() {
 
-  const [balance, setBalance ] = useState(0);
+  const {balance, setBalance} = useBalance()
 
   const handleFreeCredit = () =>{
     const money = 15000000;
@@ -20,6 +20,8 @@ function App() {
     })
   }
 
+
+
   return (
     <>
       <Header balance={balance}
@@ -28,7 +30,9 @@ function App() {
       
       ></Banner>
       <main className='max-w-11/12 mx-auto'>
-        <Players></Players>
+        <Players
+        
+        ></Players>
       </main>
      
        <Footer></Footer>
