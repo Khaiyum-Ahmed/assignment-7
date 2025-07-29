@@ -3,7 +3,7 @@ const SelectedPlayers = ({ selectedPlayers, handleRemovePlayer }) => {
    
     return (
         <div>
-            {
+          {selectedPlayers.length? <>  {
                 selectedPlayers.map(player => <div className="flex justify-between items-center border border-[rgba(19,19,19,.1)] rounded-2xl p-6 mb-6" key={player.id}>
                     <div className="flex items-center gap-6">
                         <div>
@@ -19,7 +19,9 @@ const SelectedPlayers = ({ selectedPlayers, handleRemovePlayer }) => {
                     </div>
 
                 </div>)
-            }
+            }</>: <div className="text-6xl text-center h-[500px] w-full flex justify-center items-center ">
+                <p className="w-1/2 py-20 rounded-3xl bg-gray-200 text-red-500">No selected players</p>
+            </div> }
         </div>
     );
 };

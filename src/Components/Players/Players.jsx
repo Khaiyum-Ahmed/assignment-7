@@ -76,8 +76,8 @@ const Players = ({ balance, setBalance }) => {
     return (
         <div className="pb-[240px]">
 
-            <div className="flex justify-between items-center">
-                {showsAvailablePlayers ? <h2>Available Players </h2> : <h2>Select Players: </h2>}
+            <div className="flex justify-between items-center mb-8">
+                {showsAvailablePlayers ? <h2 className="font-bold text-3xl text-[#131313]">Available Players </h2> : <h2 className="font-bold text-3xl text-[#131313]">Select Players ({selectedPlayers.length} / 6) </h2>}
                 <div>
                     <button onClick={() => handleShowAvailablePlayers()} className={`btnAvailable transition-all ${showsAvailablePlayers ? "bg-[#E7FE29] font-bold text-[#131313] " : "bg-white text-[rgba(19,19,19,.6)]"} `}>Available</button>
                     <button onClick={() => handlesShowSelectedPlayers()}
